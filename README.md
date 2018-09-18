@@ -30,7 +30,8 @@
 |  #  | Title | Solution | Time | Space | Video|
 | --- | ----- | -------- | ---- | ----- | ---- |
 |624| [Maximum Distance in Arrays](https://leetcode.com/problems/maximum-distance-in-arrays/description/) | [Python](./array/624.py) | _O(n)_| _O(1)_ ||
-
+|383| [Ransom Note(https://github.com/shanmeiliu/LeetCode/blob/master/array/383_RansomNote.py)] | [Python][(./array/383_RansomNote.py)
+|
 
 ## Array Medium
 |  #  | Title | Solution | Time | Space | Video|
