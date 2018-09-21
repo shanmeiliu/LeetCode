@@ -50,6 +50,10 @@
 |1| [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./array/1.py) | _O(n)_| _O(n)_ |[:tv:](https://www.youtube.com/watch?v=uajne4jeGaA)|
 |242| [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | [Python](./array/242.py) | _O(n)_| _O(n)_ ||
 
+## Hash table Medium
+|  #  | Title | Solution | Time | Space | Video|
+| --- | ----- | -------- | ---- | ----- | ---- |
+|347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/) | [Python](.Hashtable347.py)
 
 
 
