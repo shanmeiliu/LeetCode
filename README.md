@@ -27,7 +27,9 @@
 <br>
 ## SQL Easy
 |  #  | Title | Solution | Time | Space | Video|
+| --- | ----- | -------- | ---- | ----- | ---- |
 |175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/description/) | [sql](./SQL/Easy/175.sql) | | ||
+
 ## Array Easy
 |  #  | Title | Solution | Time | Space | Video|
 | --- | ----- | -------- | ---- | ----- | ---- |
