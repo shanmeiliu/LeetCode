@@ -4,7 +4,8 @@
 
 <!---Logo--->
 <h1 align="center">
-      <br><a href="http://yuzhoujr.com"><img src="http://yuzhoujr.com/image/logo.jpg" alt="yuzhoujr" width="200"></a>
+      “Programs must be written for people to read, and only incidentally for machines to execute.”
+
 </h1>
 
 <!---Mentra--->
