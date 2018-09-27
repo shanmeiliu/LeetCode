@@ -31,6 +31,7 @@
 |  #  | Title | Solution | Time | Space | Video|
 | --- | ----- | -------- | ---- | ----- | ---- |
 |175| [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/description/) | [sql](./SQL/Easy/175.sql) 
+|176| [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/description/) | [sql](./SQL/Easy/176.sql)
 
 ## Array Easy
 |  #  | Title | Solution | Time | Space | Video|
