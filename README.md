@@ -129,6 +129,7 @@
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/#/description)| [Python ](./tree/Yu/144.py) | _O(N)_| _O(N)_  |[:tv:](https://youtu.be/cHbdPonjYS0)|
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/#/description)| [Python ](./tree/Yu/102.py) | _O(N)_| _O(N)_  |[:tv:](https://youtu.be/IWiprpdSgzg)|
 |105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/)| [Python](./tree/105.py) |_O(N)_|_O(N)_||
+|106|[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)| [Python](./tree/106.py) |_O(N)_|_O(N)_||
 |107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/#/description)| [Python ](./tree/Yu/107.py) | _O(N)_| _O(N)_  ||
 |515|[Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/#/description)| [Python ](./tree/Yu/515.py) | _O(N)_| _O(1)_  ||
 |236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/#/description)| [Python ](./tree/Yu/236.py) | _O(N)_| _O(1)_ |[:tv:](https://youtu.be/WqNULaUhPCc)|
