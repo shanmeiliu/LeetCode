@@ -49,7 +49,7 @@
 ## Graph Medium
 |  #  | Title | Solution | Time | Space | Video|
 | --- | ----- | -------- | ---- | ----- | ---- |
-|207| [Course Schedule](https://leetcode.com/problems/course-schedule/description/) | | | ||
+|207| [Course Schedule](https://leetcode.com/problems/course-schedule/description/) | | [Python](./graph/207.py) | _O(n)_|_O(n)_||
 ## Hash Table Easy
 |  #  | Title | Solution | Time | Space | Video|
 | --- | ----- | -------- | ---- | ----- | ---- |
