@@ -32,7 +32,10 @@
 | --- | ----- | -------- | ---- | ----- | ---- |
 |175| [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/description/) | [sql](./SQL/Easy/175.sql) 
 |176| [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/description/) | [sql](./SQL/Easy/176.sql)
-
+## Math Easy
+|  #  | Title | Solution | Time | Space | Video|
+| --- | ----- | -------- | ---- | ----- | ---- |
+|400| [Nth Digit](https://leetcode.com/problems/nth-digit/) | [python](./Math/400.py) | _O(logn)_| _O(1)_| |
 ## Array Easy
 |  #  | Title | Solution | Time | Space | Video|
 | --- | ----- | -------- | ---- | ----- | ---- |
