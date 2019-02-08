@@ -37,8 +37,9 @@
 | --- | ----- | -------- | ---- | ----- | ---- |
 |400| [Nth Digit](https://leetcode.com/problems/nth-digit/) | [python](./Math/400.py) | _O(logn)_| _O(1)_| |
 ## Array Easy
-|  #  | Title | Solution | Time | Space | Video|
-| --- | ----- | -------- | ---- | ----- | ---- |
+|  #  | Title | Solution | Time | Space | Video| Other |
+| --- | ----- | -------- | ---- | ----- | ---- | ----- |
+|88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description) | [Python](./array/88.py) |_O(n)_| _O(1)_ |3 Pointers|
 |624| [Maximum Distance in Arrays](https://leetcode.com/problems/maximum-distance-in-arrays/description/) | [Python](./array/624.py) | _O(n)_| _O(1)_ ||
 |167| [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | [Python](./array/167.py) | _O(n)_| _O(1)_ ||
 |303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/description/) | [Python](.array/303.py) | _O(n)_| _O(1)_ ||
