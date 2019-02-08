@@ -45,13 +45,13 @@
 |383| [Ransom Note](https://leetcode.com/problems/ransom-note/description/) | [Python](./array/383_RansomNote.py) |  |  ||
 |383| [Ransom Note](https://leetcode.com/problems/ransom-note/description/) | [Python](.array/383_usingSet.py)
 ## Array Medium
-|  #  | Title | Solution | Time | Space | Video|
-| --- | ----- | -------- | ---- | ----- | ---- |
-|3| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description) | [Python](./array/3.py) | _O(n)_| _O(n)_ ||
-|11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/description) | [Python](./array/11.py) | _O(n)_| _O(1)_ ||
-|75|[Sort Colors](https://leetcode.com/problems/sort-colors/) | [Python](./array/75.py) | _O(n)_| _O(1)_ ||
-|238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) | [Python](./array/238.py) | _O(n)_| _O(1)_ ||
-|463| [Island Perimeter](https://leetcode.com/problems/island-perimeter/#/description) | [Python](./array/463.py) | _O(n^2)_| _O(1)_||
+|  #  | Title | Solution | Time | Space | Video| Other |
+| --- | ----- | -------- | ---- | ----- | ---- | ----- |
+|3| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description) | [Python](./array/3.py) | _O(n)_| _O(n)_ |||
+|11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/description) | [Python](./array/11.py) | _O(n)_| _O(1)_ |||
+|75|[Sort Colors](https://leetcode.com/problems/sort-colors/) | [Python](./array/75.py) | _O(n)_| _O(1)_ ||3 Pointers|
+|238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) | [Python](./array/238.py) | _O(n)_| _O(1)_ |||
+|463| [Island Perimeter](https://leetcode.com/problems/island-perimeter/#/description) | [Python](./array/463.py) | _O(n^2)_| _O(1)_|||
 ## Graph Medium
 |  #  | Title | Solution | Time | Space | Video|
 | --- | ----- | -------- | ---- | ----- | ---- |
